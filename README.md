@@ -1,2 +1,1 @@
-# Pizza-sales-business-analytics
-This project analyzes pizza sales data using SQL to identify top-selling pizzas, peak sales times, and customer preferences. It includes database schema, queries (basic to advanced), and insights for optimizing business strategies through data-driven decision-making.
+This project focuses on analyzing pizza sales data using SQL to derive meaningful business insights. The analysis includes identifying top-selling pizzas, peak sales times, and customer preferences. Various SQL queries—from basic to advanced—are used to extract key metrics and trends. The project also includes a database schema to visualize table relationships. These insights can help optimize marketing strategies, inventory management, and overall business decisions.
